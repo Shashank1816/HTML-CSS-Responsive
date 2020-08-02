@@ -125,5 +125,10 @@ nav li a:hover{
     background-color:#F4F4F4;
     color:black;
     padding:20px;
-    
 }
+.images img:hover{
+    position:relative;
+    bottom:4px;
+    z-index:-1;
+}
+
