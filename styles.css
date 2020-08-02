@@ -109,7 +109,7 @@ form input{
     padding:10px 20px;
     font-size:25px;
     border-radius:28px;
-    border: 4px solid white;
+    border: 4px solid black;
 
 }
 footer{
@@ -132,3 +132,7 @@ nav li a:hover{
     z-index:-1;
 }
 
+.join1 form input:focus{
+    border:4px solid greenyellow;
+    outline:none;
+}
