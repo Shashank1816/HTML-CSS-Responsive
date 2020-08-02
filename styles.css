@@ -118,3 +118,12 @@ footer{
     padding:10px;
     text-align:center;
 }
+
+/* Pseudo elements and classes*/
+
+nav li a:hover{
+    background-color:#F4F4F4;
+    color:black;
+    padding:20px;
+    
+}
