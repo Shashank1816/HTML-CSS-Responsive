@@ -145,3 +145,7 @@ article p::first-line{
     font-weight:bold;
     font-size:1.2em;
 }
+p::selection{
+    background-color:black;
+    color:greenyellow;
+}
