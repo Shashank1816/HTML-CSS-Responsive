@@ -193,5 +193,14 @@ p::selection{
         width:100%;
         margin:12px 0;
     }
+    header{
+        position:relative;
+    }
+    nav{
+        top:0;
+    }
+    form input{
+        font-size:15px;
+    }
 }
 
