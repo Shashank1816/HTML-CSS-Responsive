@@ -160,3 +160,8 @@ p::selection{
         font-size:18px;
     }
 }
+@media screen and (max-width:900px){
+    .banner .welcome h2{
+        font-size:45px;
+    }
+}
