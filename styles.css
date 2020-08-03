@@ -149,3 +149,14 @@ p::selection{
     background-color:black;
     color:greenyellow;
 }
+
+/* Media queries */
+
+@media screen and (max-width:1200px){
+    .banner .welcome h2{
+        font-size:60px;
+    }
+    nav li{
+        font-size:18px;
+    }
+}
